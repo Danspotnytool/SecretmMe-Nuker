@@ -1,0 +1,15 @@
+{
+    "name": "secretmme-nuker",
+    "version": "1.0.0",
+    "description": "Node JS bot that nukes secretm.me links by sending loads of messages",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node index.js"
+    },
+    "author": "Danspotnytool",
+    "license": "ISC",
+    "dependencies": {
+        "phin": "^3.6.1"
+    }
+}
